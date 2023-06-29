@@ -7,8 +7,7 @@
 
 <a href="#instagram"><img src="https://github.com/aniruddhabagal/movie-booking-app/assets/64460474/5a993b08-3172-4fbe-8667-8e71ffb3df75" alt="qr" width="200" height="200" /></a>
 <a href="#instagram"><img src="https://user-images.githubusercontent.com/99184393/182557606-b36f2540-1260-42bf-b547-ed5832e3615e.png" alt="qr" width="200" height="200" /></a>
-
-<br />
+<hr />
 
 ### :gear: Installation
 
